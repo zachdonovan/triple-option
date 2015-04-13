@@ -22,4 +22,10 @@
  * punt/field goal attempt, which the player
  * automatically undertakes on fourth down.
  *
+ * 1. there are always twenty two players on the
+ * field, eleven for each team.
+ *
+ * 2. There is always exactly 1 football on the
+ * field.
+ *
  */
