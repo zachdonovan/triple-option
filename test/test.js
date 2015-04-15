@@ -28,4 +28,19 @@
  * 2. There is always exactly 1 football on the
  * field.
  *
+ * 3. The line of scrimmage determines the
+ * starting point for the current play. At the
+ * start of the play, the football is at the
+ * line of scrimmage.
+ *
+ * 4. A play ends under one of five conditions:
+ *   A. The player with the football is tackled.
+ *   B. The player with the football moves out
+ *   of bounds.
+ *   C. The player with the football enters the
+ *   endzone.
+ *   D. The player with the football throws an
+ *   incomplete pass.
+ *   E. The player with the football kicks the
+ *   ball out of the play area (field goal).
  */
